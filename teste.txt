@@ -1,0 +1,3 @@
+# Powerlifting Analysis
+
+First statistical data analysis project.
