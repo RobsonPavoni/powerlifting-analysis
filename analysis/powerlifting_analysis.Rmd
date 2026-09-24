@@ -1,0 +1,20 @@
+---
+title: "powerlifting_analysis"
+output: html_document
+---
+
+# Powerlifting Analysis
+
+## 1. Introduction
+
+## 2. Data
+
+## 3. Data Cleaning
+
+## 4. Exploratory Analysis
+
+## 5. Statistical Analysis
+
+## 6. Modeling
+
+## 7. Conclusions
